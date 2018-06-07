@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> HariManuForever </title>
+</head>
+<body>
+Just Married :-) <3
+</body>
+<script>
+<alert>
+Wish them good luck
+</alert>
+</script>
+
+</html>
